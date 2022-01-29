@@ -10,6 +10,3 @@ When you are in the directory that contains the package file, simply execute the
 javac ePortfolio/*.java #To compile
 java ePortfolio.Window #To run
 ```
-
-## Limitations
-This program doesn't have file I/O.
