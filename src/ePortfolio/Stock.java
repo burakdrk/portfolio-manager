@@ -1,11 +1,5 @@
 package ePortfolio;
 
-/**
- This class manages stock investments by inheriting investments class.
- Author: Burak Ege Duruk
- Email: bduruk@uoguelph.ca
- Last Changed: Nov 30, 2021
- */
 public class Stock extends Investment{
     public static final double STOCK_COMISSION = 9.99;
     private double bookValue = 0.0; //dollars
