@@ -1,11 +1,5 @@
 package ePortfolio;
 
-/**
- This class manages mutual fund investments by inheriting investments class.
- Author: Burak Ege Duruk
- Email: bduruk@uoguelph.ca
- Last Changed: Nov 30, 2021
- */
 public class MutualFund extends Investment{
     public static final double MUTUAL_FEE = 45.0;
     private double bookValue = 0.0; //dollars
