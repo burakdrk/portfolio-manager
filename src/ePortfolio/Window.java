@@ -9,12 +9,6 @@ import java.util.ArrayList;
 import java.util.Formatter;
 import java.util.TreeSet;
 
-/**
- This class is the main class to execute the program and manage GUI.
- Author: Burak Ege Duruk
- Email: bduruk@uoguelph.ca
- Last Changed: Nov 30, 2021
- */
 public class Window extends JFrame {
     private Portfolio portfolio = new Portfolio();
     public static final int WIDTH = 700;
