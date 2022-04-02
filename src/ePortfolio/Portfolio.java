@@ -2,12 +2,6 @@ package ePortfolio;
 
 import java.util.*;
 
-/**
- This class manages portfolios for investments.
- Author: Burak Ege Duruk
- Email: bduruk@uoguelph.ca
- Last Changed: Nov 30, 2021
- */
 public class Portfolio {
     private ArrayList<Investment> investment = new ArrayList<Investment>();
     private HashMap<String, ArrayList<Integer>> index = new HashMap<String, ArrayList<Integer>>();
