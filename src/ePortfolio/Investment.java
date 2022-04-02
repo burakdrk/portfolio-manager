@@ -1,11 +1,5 @@
 package ePortfolio;
 
-/**
- This class is the super-abstract-class for MutualFunds and Stocks.
- Author: Burak Ege Duruk
- Email: bduruk@uoguelph.ca
- Last Changed: Nov 30, 2021
- */
 public abstract class Investment {
     private String symbol;
     private String name;
